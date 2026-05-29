@@ -25,7 +25,6 @@ logs/
 # ROS2 / colcon
 serial_new2/build/
 serial_new2/log/
-serial_new2/install/
 
 # Compiled / binary
 *.o
