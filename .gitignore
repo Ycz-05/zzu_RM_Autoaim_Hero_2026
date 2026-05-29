@@ -1,0 +1,59 @@
+# Build directories
+build/
+cmake-build-*/
+dist/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+.venv/
+
+# Logs
+logs/
+
+# ROS2 / colcon
+serial_new2/build/
+serial_new2/log/
+serial_new2/install/
+
+# Compiled / binary
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (large binary files)
+*.pth
+*.onnx
+*.engine
+*.trt
+*.bin
+*.param
+*.weight
+*.caffemodel
+*.prototxt
