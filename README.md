@@ -2,15 +2,7 @@
 
 # 本项目为2026赛季郑州大学中州烛龙英雄视觉自瞄
 
-<div align="center">
-
-![RoboMaster](asset/RoboMaster-mecha-logo.png)
-
 **郑州大学 RoboMaster 英雄步兵机器人自动瞄准系统**
-
-![cover](asset/cover.jpg)
-
-</div>
 
 ---
 
@@ -31,6 +23,7 @@
   - [MCU 仿真](#mcu-仿真)
   - [常见问题](#常见问题)
 - [项目展示](#项目展示)
+- .[致谢]
 
 ---
 
